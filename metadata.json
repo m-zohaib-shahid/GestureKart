@@ -1,0 +1,10 @@
+{
+  "name": "GestureKart - 3D Civic Safety Simulator",
+  "description": "Client-side 3D traffic safety web simulator controlled by real-time webcam pose gestures with MediaPipe and React Three Fiber.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
